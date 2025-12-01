@@ -1,3 +1,21 @@
+# CRUD de Productos con Laravel
+
+Sistema CRUD completo para gestionar productos y categorías, desarrollado con Laravel y Bootstrap.
+
+## 📚 Guía Completa
+
+**¿Quieres crear un proyecto similar desde cero?** 
+
+Consulta la **[GUIA.md](GUIA.md)** que contiene instrucciones paso a paso detalladas para:
+- Crear el proyecto Laravel
+- Configurar la base de datos
+- Implementar CRUD de Categorías
+- Implementar CRUD de Productos
+- Crear el menú lateral con Bootstrap
+- Y mucho más...
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
